@@ -24,3 +24,6 @@
 
 2. **Project Description**  
    - [Project-Description.md](https://github.com/leninnr/CS5001---Senior-Design/blob/main/Project-Description.md)  
+
+3. **Homework**
+   - [Homework Essays](https://github.com/leninnr/Senior-Design/tree/main/homework_essays)
