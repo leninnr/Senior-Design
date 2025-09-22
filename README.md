@@ -28,5 +28,8 @@
 3. **Homework**
    - [Homework Essays](https://github.com/leninnr/Senior-Design/tree/main/homework_essays)
 
-4. **Design Diagram**
+4. **User Stories**
+   - [User_Stories.md](https://github.com/leninnr/Senior-Design/blob/main/homework_essays/Assignment-4/User_Stories.md)
+
+5. **Design Diagram**
    - [Design_Diagrams](https://github.com/leninnr/Senior-Design/tree/main/Design_Diagrams)
