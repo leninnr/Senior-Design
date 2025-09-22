@@ -2,7 +2,7 @@
 
 ### Team Name : **NARLA**  
 
-### Project Advisor : **TBD**  
+### Project Advisor : **Seokki Lee**  
 
 ### Team Members  
 - **Neha Ross Lenin**  
