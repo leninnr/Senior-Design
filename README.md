@@ -2,7 +2,9 @@
 
 ### Team Name : **NARLA**  
 
-### Project Advisor : **Seokki Lee**  
+### Project Advisor : 
+- **Seokki Lee**
+  - 📧 [lee5sk@ucmail.uc.edu](mailto:lee5sk@ucmail.uc.edu)
 
 ### Team Members  
 - **Neha Ross Lenin**  
