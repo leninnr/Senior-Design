@@ -29,4 +29,4 @@
    - [Homework Essays](https://github.com/leninnr/Senior-Design/tree/main/homework_essays)
 
 4. **Design Diagram**
-   -[Design_Diagrams](https://github.com/leninnr/Senior-Design/tree/main/Design_Diagrams)
+   - [Design_Diagrams](https://github.com/leninnr/Senior-Design/tree/main/Design_Diagrams)
