@@ -28,3 +28,5 @@
    - [User_Stories.md](https://github.com/leninnr/Senior-Design/blob/main/homework_essays/Assignment-4/User_Stories.md)
 5. **Design Diagram**
    - [Design_Diagrams](https://github.com/leninnr/Senior-Design/tree/main/Design_Diagrams)
+6. **Task List**
+   - [Tasklist.md](https://github.com/leninnr/Senior-Design/blob/main/homework_essays/Assignment-5/Tasklist.md)
