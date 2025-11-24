@@ -3,8 +3,12 @@
 
 ## 📝 Reviewed Projects and Comments:
 
-1. **TZJM (Crowdsourced Litter Pickup):** The demo sounds really polished and complete. I like that you focused on real time updates and user interaction. The mix of web design, data, and AI makes it stand out and it is great how you tied it all to real environmental change. leninnr@mail.uc.edu
+**Neha Ross Lenin**
+- **TZJM (Crowdsourced Litter Pickup):** The demo sounds really polished and complete. I like that you focused on real time updates and user interaction. The mix of web design, data, and AI makes it stand out and it is great how you tied it all to real environmental change. leninnr@mail.uc.edu
+- **Sub4You (Student Housing Platform):** I really like how Sub4You focuses on making housing easier for students. The design looks clean and easy to navigate, and the AI recommendations are a smart addition. It also feels like something that could work really well alongside our own project since both aim to simplify student life. Overall, it is a great and relevant idea. leninnr@mail.uc.edu
+- **OJ (Trading Strategy Backtesting Platform):** I think your project has a lot of potential, especially for students or traders who want to test strategies safely. The concept is practical and well thought out, and your explanation was clear and easy to follow. It seems like a useful tool for anyone interested in finance and coding. leninnr@mail.uc.edu
 
-2. **Sub4You (Student Housing Platform):** I really like how Sub4You focuses on making housing easier for students. The design looks clean and easy to navigate, and the AI recommendations are a smart addition. It also feels like something that could work really well alongside our own project since both aim to simplify student life. Overall, it is a great and relevant idea. leninnr@mail.uc.edu
-
-3. **OJ (Trading Strategy Backtesting Platform):** I think your project has a lot of potential, especially for students or traders who want to test strategies safely. The concept is practical and well thought out, and your explanation was clear and easy to follow. It seems like a useful tool for anyone interested in finance and coding. leninnr@mail.uc.edu
+**Aditya Anand**
+- **TZJM:** I really like how your project turns community input into real action. The interface looks smooth and the goal is meaningful. Great job balancing tech and social impact. – ananday@mail.uc.edu
+- **Sub4You:** The idea feels very practical for students, and I like how you made the design simple but effective. The AI matching feature is a clever addition that makes the app feel modern and helpful. – ananday@mail.uc.edu
+- **OJ:** This is a solid project with a clear purpose. It is nice how you focused on making strategy testing accessible to users who want to learn trading safely. Everything came across clearly. – ananday@mail.uc.edu
