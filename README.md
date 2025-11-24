@@ -15,7 +15,7 @@
   - 📧 [ananday@mail.uc.edu](mailto:ananday@mail.uc.edu)  
 
 ### Project Abstract
-- NARLA is an AI-powered apartment co-pilot that helps roommates manage shared living. It centralizes chores, expenses, reminders, and household communication into one smart platform, reducing conflicts and improving daily coordination through automation, notifications, and intelligent task assignment.
+NARLA is an AI-powered apartment co-pilot that helps roommates manage shared living. It centralizes chores, expenses, reminders, and household communication into one smart platform, reducing conflicts and improving daily coordination through automation, notifications, and intelligent task assignment.
 
 ---
 
