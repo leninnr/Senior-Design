@@ -24,8 +24,8 @@ NARLA is a smart roommate app designed to simplify shared living. It keeps track
    - [Project-Description.md](https://github.com/leninnr/CS5001---Senior-Design/blob/main/Project-Description.md)  
 2. **User Stories and Design Diagrams**
    - [User_Stories.md](https://github.com/leninnr/Senior-Design/blob/main/homework_essays/Assignment-4/User_Stories.md)
-   - [Design_Diagrams](https://github.com/leninnr/Senior-Design/tree/main/Design_Diagrams): [L0](https://github.com/leninnr/Senior-Design/blob/main/Design_Diagrams/D0.jpg), [L1](https://github.com/leninnr/Senior-Design/blob/main/Design_Diagrams/D1.jpg), [L2](https://github.com/leninnr/Senior-Design/blob/main/Design_Diagrams/D2.jpg)
-   - [Description of the Diagrams](https://github.com/leninnr/Senior-Design/blob/main/Design_Diagrams/Description%20of%20the%20Diagrams.pdf)
+   - [Design_Diagrams](https://github.com/leninnr/Senior-Design/blob/main/homework_essays/Assignment-4/Assignment-4.pdf): [L0](https://github.com/leninnr/Senior-Design/blob/main/homework_essays/Assignment-4/D0.jpg), [L1](https://github.com/leninnr/Senior-Design/blob/main/homework_essays/Assignment-4/D1.jpg), [L2](https://github.com/leninnr/Senior-Design/blob/main/homework_essays/Assignment-4/D2.jpg)
+   - [Description of the Diagrams](https://github.com/leninnr/Senior-Design/blob/main/homework_essays/Assignment-4/Assignment-4.pdf)
 3. **Project Tasks and Timeline**
    - [Tasklist.md](https://github.com/leninnr/Senior-Design/blob/main/homework_essays/Assignment-5/Tasklist.md)
    - [Timeline & Effort Matrix](https://github.com/leninnr/Senior-Design/blob/main/homework_essays/Assignment-6/Timeline%20%26%20Effort%20Matrix.pdf)
@@ -34,11 +34,11 @@ NARLA is a smart roommate app designed to simplify shared living. It keeps track
 5. **PPT Slideshow**
    - [NARLA](https://github.com/leninnr/Senior-Design/blob/main/homework_essays/Assignment-8/Assignment-8.pdf)
 6. **Self-Assessment Essays**
-   - [Neha Ross Lenin - Individual Capstone](https://github.com/leninnr/Senior-Design/blob/main/homework_essays/Assignment-3/NehaRossLenin_IND_Captsone_%20Assignment.md)
-   - [Aditya Anand - Individual Capstone](https://github.com/leninnr/Senior-Design/blob/main/homework_essays/Assignment-3/Aditya_Anand_IND_Captsone_%20Assignment.md)
+   - [Neha Ross Lenin - Individual Capstone](https://github.com/leninnr/Senior-Design/blob/main/homework_essays/Assignment-1/Professional%20Biography%20-%20Neha%20Ross%20Lenin.md)
+   - [Aditya Anand - Individual Capstone](https://github.com/leninnr/Senior-Design/blob/main/homework_essays/Assignment-1/Professional%20Biography%20-%20Aditya%20Anand.md)
 7. **Professional Biographies**  
-   - [Neha Ross Lenin](https://github.com/leninnr/CS5001---Senior-Design/blob/main/Professional%20Biography%20-%20Neha%20Ross%20Lenin.md)  
-   - [Aditya Anand](https://github.com/leninnr/CS5001---Senior-Design/blob/main/Professional%20Biography%20-%20Aditya%20Anand.md)
+   - [Neha Ross Lenin](https://github.com/leninnr/Senior-Design/blob/main/homework_essays/Assignment-1/Professional%20Biography%20-%20Neha%20Ross%20Lenin.md)  
+   - [Aditya Anand](https://github.com/leninnr/Senior-Design/blob/main/homework_essays/Assignment-1/Professional%20Biography%20-%20Aditya%20Anand.md)
 8. **Budget**
    - [Budget.md](https://github.com/leninnr/Senior-Design/blob/main/homework_essays/OTHER/Budget.md)
 9. **Appendix**
