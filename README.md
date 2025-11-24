@@ -40,12 +40,10 @@ NARLA is a smart roommate app designed to simplify shared living. It keeps track
    - [Neha Ross Lenin](https://github.com/leninnr/CS5001---Senior-Design/blob/main/Professional%20Biography%20-%20Neha%20Ross%20Lenin.md)  
    - [Aditya Anand](https://github.com/leninnr/CS5001---Senior-Design/blob/main/Professional%20Biography%20-%20Aditya%20Anand.md)
 8. **Budget**
-   - [expenses to date or statement that there have not been any.]
-   - [show monetary value of donated items and donation sources.]
+   - [Budget.md](https://github.com/leninnr/Senior-Design/blob/main/homework_essays/OTHER/Budget.md)
 9. **Appendix**
-   - [include appropriate references, citations, links to code repositories, and meeting notes.]
-   - [there should be evidence justifying 45 hours of effort for each team member.]
+   - [Appendix.md](https://github.com/leninnr/Senior-Design/blob/main/homework_essays/OTHER/Appendix.md)
 10. **Team Contract**
     - [Team Contract](https://github.com/leninnr/Senior-Design/blob/main/homework_essays/Assignment-3/NARLA_SeniorDesign_Contract.pdf)
-12. **Homework**
+11. **Homework**
     - [Homework Essays](https://github.com/leninnr/Senior-Design/tree/main/homework_essays)
