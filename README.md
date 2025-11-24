@@ -34,8 +34,8 @@ NARLA is a smart roommate app designed to simplify shared living. It keeps track
 5. **PPT Slideshow**
    - [NARLA](https://github.com/leninnr/Senior-Design/blob/main/homework_essays/Assignment-8/Assignment-8.pdf)
 6. **Self-Assessment Essays**
-   - [Neha Ross Lenin - Individual Capstone](https://github.com/leninnr/Senior-Design/blob/main/homework_essays/Assignment-1/Professional%20Biography%20-%20Neha%20Ross%20Lenin.md)
-   - [Aditya Anand - Individual Capstone](https://github.com/leninnr/Senior-Design/blob/main/homework_essays/Assignment-1/Professional%20Biography%20-%20Aditya%20Anand.md)
+   - [Neha Ross Lenin - Individual Capstone](https://github.com/leninnr/Senior-Design/blob/main/homework_essays/Assignment-3/NehaRossLenin_IND_Captsone_%20Assignment.md)
+   - [Aditya Anand - Individual Capstone](https://github.com/leninnr/Senior-Design/blob/main/homework_essays/Assignment-3/Aditya_Anand_IND_Captsone_%20Assignment.md)
 7. **Professional Biographies**  
    - [Neha Ross Lenin](https://github.com/leninnr/Senior-Design/blob/main/homework_essays/Assignment-1/Professional%20Biography%20-%20Neha%20Ross%20Lenin.md)  
    - [Aditya Anand](https://github.com/leninnr/Senior-Design/blob/main/homework_essays/Assignment-1/Professional%20Biography%20-%20Aditya%20Anand.md)
