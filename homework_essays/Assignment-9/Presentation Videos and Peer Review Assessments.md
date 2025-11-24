@@ -1,7 +1,7 @@
-## Video Presentation:
+## 🎥 Video Presentation:
 - [Link to Video](https://mailuc-my.sharepoint.com/personal/ananday_mail_uc_edu/_layouts/15/stream.aspx?id=%2Fpersonal%2Fananday%5Fmail%5Fuc%5Fedu%2FDocuments%2FNARLA%20Presentation%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E24a01739%2Dd06f%2D44be%2Da579%2Dcfaa4f408734)
 
-## Reviewed Projects and Comments:
+## 📝 Reviewed Projects and Comments:
 
 1. **TZJM (Crowdsourced Litter Pickup):** The demo sounds really polished and complete. I like that you focused on real time updates and user interaction. The mix of web design, data, and AI makes it stand out and it is great how you tied it all to real environmental change. leninnr@mail.uc.edu
 
