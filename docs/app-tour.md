@@ -11,8 +11,6 @@ The dashboard shows your household at a glance:
 - Grocery items running low
 - Recent activity
 
-![Dashboard placeholder](images/placeholder.png)
-
 ---
 
 ## Household Tab

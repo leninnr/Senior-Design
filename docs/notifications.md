@@ -22,8 +22,6 @@ You may be able to toggle:
 - Email notifications
 - Quiet hours (no alerts overnight)
 
-![Notification settings placeholder](images/placeholder.png)
-
 ---
 
 ## Recommended Settings

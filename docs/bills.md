@@ -15,7 +15,7 @@ NARLA helps you track shared bills and reduce “who still owes me?” situation
    - Split method
 4. Tap **Save**
 
-![Bills placeholder](images/placeholder.png)
+
 
 ---
 

@@ -29,6 +29,3 @@ If the page won’t load:
 - Check [Troubleshooting](troubleshooting.md)
 
 ---
-
-## Screenshot: Login Screen (Placeholder)
-![Login screen placeholder](images/placeholder.png)

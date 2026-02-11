@@ -12,7 +12,6 @@ A **household** is the shared group for one apartment or shared living space.
    - Optional address/notes
 4. Tap **Create**
 
-![Household create placeholder](images/placeholder.png)
 
 ---
 

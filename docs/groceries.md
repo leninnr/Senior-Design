@@ -13,8 +13,6 @@ NARLA helps track shared groceries so you don’t run out unexpectedly.
    - Optional: category (dairy, snacks)
 4. Tap **Save**
 
-![Groceries placeholder](images/placeholder.png)
-
 ---
 
 ## Updating Quantity

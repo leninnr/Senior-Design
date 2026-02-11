@@ -30,15 +30,3 @@ This documentation is written for **normal users (roommates)**. You don’t need
 - **Need help now?** Go to [Troubleshooting](troubleshooting.md) or [FAQ](faq.md)
 
 ---
-
-## Screenshot Legend (How we use images)
-In the docs, you’ll see screenshot placeholders like this:
-
-![Example screenshot placeholder](images/placeholder.png)
-
-When the app is ready, replace placeholders with real screenshots:
-- Dashboard
-- Household page
-- Chores list
-- Bills page
-- Grocery inventory page

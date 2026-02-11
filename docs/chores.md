@@ -14,7 +14,6 @@ Chores keep everyone accountable and reduce arguments.
    - Notes (optional)
 4. Tap **Save**
 
-![Chores create placeholder](images/placeholder.png)
 
 ---
 
