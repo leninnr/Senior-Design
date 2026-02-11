@@ -35,8 +35,6 @@ Some households have roles:
 - **Admin**: can manage members and settings
 - **Member**: can use chores/bills/groceries normally
 
-> If your team decides not to implement roles, remove this section.
-
 ---
 
 ## Removing a Roommate

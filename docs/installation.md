@@ -1,6 +1,6 @@
 # Installation & Access
 
-NARLA can be accessed as a web app (and may also have a mobile app release depending on your team’s final delivery).
+NARLA can be accessed as a web app (and may also have a mobile app release).
 
 ---
 

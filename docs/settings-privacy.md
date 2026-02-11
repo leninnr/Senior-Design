@@ -37,8 +37,6 @@ NARLA is designed so that:
 If supported:
 - Settings → Household → Leave Household
 
-> If your system does not allow leaving directly, explain the process here.
-
 ---
 
 ## Accessibility
