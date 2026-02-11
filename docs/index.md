@@ -3,8 +3,6 @@
 Welcome to **NARLA (AI-Driven Apartment Co-Pilot)** 👋  
 NARLA helps roommates manage shared apartment life—**chores, bills, groceries, and reminders**—in one simple place.
 
-This documentation is written for **normal users (roommates)**. You don’t need technical knowledge.
-
 ---
 
 ## What NARLA Helps You Do
