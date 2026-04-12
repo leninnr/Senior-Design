@@ -2,7 +2,7 @@
   <img src="docs/NARLA%20Logo.png" alt="NARLA Logo" width="220"/>
 </p>
 
-<h1 align="center">NARLA: Apartment Co-Pilot</h1>
+<h1 align="center">NARLA: The Apartment Co-Pilot</h1>
 <p align="center"><i>Senior Design - Final Report</i></p>
 
 ---
