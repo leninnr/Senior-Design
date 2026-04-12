@@ -34,7 +34,3 @@ Working in a team taught me the importance of communication and collaboration. I
 Overall, I believe our teamwork was strong, and both team members contributed fairly. I would like to recognize my teammate, **Aditya Anand**, who consistently supported the project and handled his responsibilities effectively. His contributions played an important role in maintaining steady progress.
 
 ---
-
-## 👤 Aditya Anand
-
-*(Add Aditya’s reflection here)*
