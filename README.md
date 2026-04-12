@@ -40,6 +40,6 @@ NARLA is a smart roommate app designed to simplify shared living. It keeps track
 9. ⏱️ [Hours and Justification](https://github.com/leninnr/Senior-Design/blob/main/homework_essays/OTHER/Hours%20and%20Justification.md)
 10. 💰 [Expenses](https://github.com/leninnr/Senior-Design/blob/main/homework_essays/OTHER/Expenses.md)
 11. 📎 [Appendix](https://github.com/leninnr/Senior-Design/blob/main/homework_essays/OTHER/Appendix.md)
-12. 📂 [More Documentation]:
+12. 📂 [More Documentation](https://github.com/leninnr/Senior-Design/tree/main):
     - [Docs](https://github.com/leninnr/Senior-Design/tree/main/docs)
     - [HW](https://github.com/leninnr/Senior-Design/tree/main/homework_essays)
