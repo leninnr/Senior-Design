@@ -5,6 +5,8 @@
 <h1 align="center">NARLA: The Apartment Co-Pilot</h1>
 <p align="center"><i>Senior Design - Final Report</i></p>
 
+<h2 align="center">🚀 <a href="https://narla.vercel.app/">Try It Yourself</a></h2>
+
 ---
 
 ### 🏷️ Team Name: **NARLA**
